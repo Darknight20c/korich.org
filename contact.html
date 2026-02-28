@@ -1,12 +1,83 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            margin-top: 0;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="email"],
+        textarea {
+            width: 100%;
+            padding: 10px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+        button[type="submit"] {
+            padding: 10px 20px;
+            font-size: 1rem;
+            background-color: #0057a8;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            align-self: flex-start;
+        }
+        button[type="submit"]:hover {
+            background-color: #003f7a;
+        }
+        .email-fallback {
+            margin-top: 24px;
+            font-size: 0.95rem;
+        }
+    </style>
 </head>
 <body>
-    <h1>Contact Us</h1>
-    <p>If you have any questions, feel free to reach out to us at <a href="mailto:korichonline@gmail.com">korichonline@gmail.com</a>.</p>
-    <p>Alternatively, you can also contact support at <a href="mailto:korichonline@gmail.com">korichonline@gmail.com</a>.</p>
-    <p>We look forward to hearing from you!</p>
+    <div class="container">
+        <h1>Contact Us</h1>
+        <form action="https://formspree.io/f/xykdbqje" method="POST">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Your name" autocomplete="name" required>
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="your@email.com" autocomplete="email" required>
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Your message..." required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+        <p class="email-fallback">Prefer email? Reach us directly at <a href="mailto:korichonline@gmail.com">korichonline@gmail.com</a>.</p>
+    </div>
 </body>
 </html>
+
