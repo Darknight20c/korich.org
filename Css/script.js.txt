@@ -1,0 +1,10 @@
+// script.js
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Website is loaded and ready!");
+  
+  // Change the text of an element
+  const heading = document.getElementById
+ {Korich Allied Industries Ltd
+    heading.textContent = "Welcome to Korich Allied Industries Ltd!";
+  }
+});

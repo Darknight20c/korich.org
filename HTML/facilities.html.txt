@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Korich Factory Facilities</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Global Navigation -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="facilities.html" class="active">Facilities</a></li>
+      <li><a href="products.html">Products</a></li>
+      <li><a href="marketing.html">Marketing & Events</a></li>
+      <li><a href="brand.html">Brand Guidelines</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="careers.html">Careers</a></li>
+    </ul>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+    <h1>Welcome to the Korich Factory</h1>
+
+    <h2>Facilities Overview</h2>
+    <p>The Korich Factory is equipped with state-of-the-art facilities that enhance our production capabilities. Our infrastructure is designed to optimize efficiency and ensure quality in every product we deliver.</p>
+
+    <h3>Production Capabilities</h3>
+    <ul>
+      <li>High-speed assembly lines</li>
+      <li>Advanced robotics for precision tasks</li>
+      <li>Quality control laboratories</li>
+      <li>Automated warehousing systems</li>
+    </ul>
+
+    <h3>Factory Premises</h3>
+    <p>Our factory premises span over several acres, featuring modern design and ample space for machinery and inventory.</p>
+    <img src="R:\korich.org\images\sdv1.png"
+"R:\korich.org\images\sdv2.png"
+"R:\korich.org\images\Tank1.png"
+"R:\korich.org\images\Tank2.png"
+    <img src="R:\korich.org\images\10.jpeg"
+"R:\korich.org\images\11.jpeg"
+"R:\korich.org\images\12.jpeg"
+"R:\korich.org\images\13.jpeg"
+"R:\korich.org\images\machine1.png"
+
+    <h3>Safety Standards</h3>
+    <p>We adhere to international safety regulations, ensuring a secure environment for our employees and visitors.</p>
+
+    <h3>Sustainability Practices</h3>
+    <p>Korich is committed to eco-friendly operations, including energy-efficient machinery, waste reduction programs, and sustainable packaging solutions.</p>
+
+    <h3>Visit Us</h3>
+    <p>We invite you to visit our facilities and see how we operate! Contact us for more information.</p>
+    <iframe src="https://www.google.com/maps/embed?pb=YOUR_MAP_EMBED_CODE" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  </div>
+
+  <!-- Global Footer -->
+  <footer>
+    <p>&copy; 2026 Korich Group. All rights reserved.</p>
+    <p>
+      <a href="privacy.html">Privacy Policy</a> | 
+      <a href="terms.html">Terms of Service</a> | 
+      <a href="contact.html">Contact Us</a>
+    </p>
+    <p>
+      Follow us: 
+      <a href="https://facebook.com/korich concept" target="_blank">Facebook</a> | 
+      <a href="https://instagram.com/korichfoods" target="_blank">Instagram</a>
+    </p>
+  </footer>
+</body>
+</html>
