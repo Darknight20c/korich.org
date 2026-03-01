@@ -121,7 +121,7 @@ footer a:hover {
 }
    
    .about-me {
-  background-image: "R:\korich vegetable oil\Css\compd1.png"
+  background-image: "R:\korich.org\Css\compd1.png"
   background-size: cover; /* Makes the image cover the whole section */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents tiling */
@@ -131,7 +131,7 @@ footer a:hover {
 
    .about-me {
   position: relative;
-  background-image: "R:\korich vegetable oil\Css\compd1.png"
+  background-image: "R:\korich.org\Css\compd1.png"
   background-size: cover;
   background-position: center;
   color: white;
@@ -152,7 +152,7 @@ footer a:hover {
 }
 
   .about-me {
-  background-image: "R:\korich vegetable oil\Css\Tank2.png"
+  background-image: "R:\korich.org\Css\Tank2.png"
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -162,7 +162,7 @@ footer a:hover {
 }
 
   .facilities {
-  background-image: "R:\korich vegetable oil\Css\sdv2.png"
+  background-image: "R:\korich.org\Css\sdv2.png"
   background-size: cover; /* Ensures the image covers the section */
   background-position: center; /* Keeps the image centered */
   background-repeat: no-repeat; /* Prevents tiling */
