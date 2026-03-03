@@ -1,0 +1,14 @@
+[build]
+  command = ""
+  publish = "public"
+
+[[redirects]]
+  from = "/old-page"
+  to = "/new-page"
+  status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
