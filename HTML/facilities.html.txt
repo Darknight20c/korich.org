@@ -38,15 +38,15 @@
 
     <h3>Factory Premises</h3>
     <p>Our factory premises span over several acres, featuring modern design and ample space for machinery and inventory.</p>
-    <img src="R:\korich.org\images\sdv1.png"
-"R:\korich.org\images\sdv2.png"
-"R:\korich.org\images\Tank1.png"
-"R:\korich.org\images\Tank2.png"
-    <img src="R:\korich.org\images\10.jpeg"
-"R:\korich.org\images\11.jpeg"
-"R:\korich.org\images\12.jpeg"
-"R:\korich.org\images\13.jpeg"
-"R:\korich.org\images\machine1.png"
+    <img src="R:\korich.org\Public\sdv1.png"
+"R:\korich.org\Public\sdv2.png"
+"R:\korich.org\Public\Tank1.png"
+"R:\korich.org\Public\Tank2.png">
+    <img src="R:\korich.org\Public\10.jpeg"
+"R:\korich.org\Public\11.jpeg"
+"R:\korich.org\Public\12.jpeg"
+"R:\korich.org\Public\13.jpeg">
+"R:\korich.org\Public\machine1.png"
 
     <h3>Safety Standards</h3>
     <p>We adhere to international safety regulations, ensuring a secure environment for our employees and visitors.</p>
