@@ -45,8 +45,6 @@
 "R:\korich.org\Public\P2.jpeg"
 "R:\korich.org\Public\P3.jpeg"
 "R:\korich.org\Public\P4.jpeg"
-"R:\korich.org\Public\ke2.png"
-"R:\korich.org\Public\ke1.png"
 "R:\korich.org\Public\P5.jpeg" alt="Korich Vegetable Oil Bottle">
       <p>Korich Vegetable and soya Oil is made from high-quality, Palm Oliein and non-GMO soybeans respectively. It is ideal for cooking, baking, and frying, offering a light taste that enhances your favorite dishes.</p>
       <ul>
@@ -59,7 +57,7 @@
 
     <section id="real-estate-services">
       <h2>Korich Homes</h2>
-      <img src="R:\korich.org\images\1.jpeg"
+      <img src="R:\korich.org\Public\1.jpeg"
 "R:\korich.org\Public\2.jpeg"
 "R:\korich.org\Public\3.jpeg"
 "R:\korich.org\Public\4.jpeg"
@@ -92,7 +90,7 @@
 "R:\korich.org\Public\31.jpeg"
 "R:\korich.org\Public\32.jpeg"
 "R:\korich.org\Public\33.jpeg"
-"R:\korich vegetable oil\images\Korich Homes Logo.jpeg" alt="Korich Homes Projects">
+"R:\korich.org\Public\Korich Homes Logo.jpeg" alt="Korich Homes Projects">
       <p>Korich Homes provides exceptional real estate construction and management services, specializing in residential and commercial properties. Our team is dedicated to helping you find your dream home or the perfect investment property.</p>
       <ul>
         <li>Affordable housing solutions</li>
